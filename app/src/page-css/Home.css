@@ -1,0 +1,154 @@
+.p-Home.Navbar {
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-left: 200px;
+padding-right: 200px;
+padding-top: 32px;
+padding-bottom: 32px;
+column-gap: 200px;
+}
+.p-Home.Logo {
+;
+}
+.p-Home.SubPages {
+display: flex;
+column-gap: 20px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 16px;
+}
+.p-Home.Flex3 {
+display: flex;
+justify-content: space-between;
+padding-left: 200px;
+padding-right: 200px;
+column-gap: 160px;
+}
+.p-Home.AuthorCard {
+margin-bottom: ;
+padding-top: 16px;
+padding-bottom: 16px;
+}
+.p-Home.Flex4 {
+display: flex;
+margin-top: 16px;
+}
+.p-Home.AuthorPic {
+;
+}
+.p-Home.Div6 {
+;
+}
+.p-Home.Flex5 {
+display: flex;
+justify-content: center;
+padding-top: 32px;
+padding-bottom: 48px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+column-gap: 20px;
+}
+.p-Home.LogoName {
+font-family: IBM Plex Sans;
+font-weight: 600;
+font-size: 20px;
+}
+.p-Home.About {
+;
+}
+.p-Home.Contact {
+;
+}
+.p-Home.Services {
+;
+}
+.p-Home.Projects {
+;
+}
+.p-Home.BookCall {
+;
+}
+.p-Home.HighlightedHeadline {
+font-family: IBM Plex Sans;
+font-size: 25px;
+font-weight: 600;
+color: #ff0000;
+margin-bottom: ;
+padding-bottom: 16px;
+}
+.p-Home.Headline {
+font-size: 24px;
+font-family: IBM Plex Sans;
+font-weight: 600;
+margin-bottom: 16px;
+}
+.p-Home.AuthorBio {
+font-family: IBM Plex Sans;
+font-weight: 300;
+padding-bottom: 16px;
+}
+.p-Home.Button2 {
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+margin-right: 15px;
+}
+.p-Home.Button3 {
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+}
+.p-Home.Image2 {
+border-radius: 1000px;
+width: 300px;
+}
+.p-Home.TextBox12 {
+align-self: stretch;
+text-align: center;
+padding-top: 48px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-Home.Image4 {
+width: 120px;
+height: 80px;
+}
+.p-Home.Image7 {
+width: 120px;
+height: 80px;
+}
+.p-Home.Image8 {
+width: 120px;
+height: 80px;
+}
+.p-Home.Image9 {
+width: 120px;
+height: 80px;
+}
